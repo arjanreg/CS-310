@@ -1,2 +1,2 @@
-# CS-310
-Data Structures &amp; Algorithms
+# Discrete Knapsack problem
+A discrete knapsack problem 
